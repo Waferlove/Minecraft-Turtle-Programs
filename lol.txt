@@ -1,0 +1,2 @@
+>lua
+>while 1 do turtle.turnLeft() end
